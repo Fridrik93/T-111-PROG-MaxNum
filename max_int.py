@@ -1,3 +1,4 @@
+# https://github.com/Fridrik93/T-111-PROG-MaxNum
 num_int = 0
 max_int = 0
 while True:
